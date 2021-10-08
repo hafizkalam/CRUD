@@ -5,8 +5,8 @@
 * and open the template in the editor.
 */
     $host   ="10.0.0.194";
-    $user ="root";
-    $password ="";
+    $user ="admin";
+    $password ="Admin.123";
     $db ="scrud"; 
     
     $config =  mysqli_connect($host, $user, $password,$db);
