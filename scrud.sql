@@ -29,4 +29,4 @@ CREATE TABLE `anggota` (
 -- ----------------------------
 -- Records of anggota
 -- ----------------------------
-INSERT INTO `anggota` VALUES ('3', 'Heri Priady', 'Jl. gajah 2 Rw 05 Rt 21 Desa Kumain, Kec. Tandun, Kab Rohul');
+INSERT INTO `anggota` VALUES ('1', 'Hafiz Kalam', 'Kota Malang, Jawa Timur, Indonesia');

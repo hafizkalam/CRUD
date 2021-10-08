@@ -39,7 +39,7 @@
           <ol class="breadcrumb">
             <li><a href="index.php"><i class="fa fa-dashboard"></i> Home</a></li>
             <li><a href="#">Anggota</a></li>
-            <li class="active">List Anggot</li>
+            <li class="active">List Anggota</li>
             
           </ol>
         </section>
